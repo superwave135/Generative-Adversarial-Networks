@@ -1,0 +1,2 @@
+# Generative-Adversarial-Networks
+Objectives: Usually a GAN is referring to DCGAN (deep convolution GAN): a GAN where the generator and discriminator are deep convnets. Training a DCGAN is computational cost. In this practice, deep convnets will be replaced with multi-layer perceptron. In this practice, we're to implement a standard GAN using a multi-layer perceptron for both the discriminator and generator. We train the GAN on MNIST images. After completing the tasks, you'll be get familiarized with the schematic GAN implementation.
